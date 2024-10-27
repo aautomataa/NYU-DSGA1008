@@ -1,2 +1,2 @@
 # NYU-DSGA1008
-self-learning program
+https://atcold.github.io/NYU-DLSP21/fr/
